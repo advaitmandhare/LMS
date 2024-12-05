@@ -54,9 +54,9 @@ Contributions are welcome! Feel free to open issues and pull requests to suggest
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Authors
+//## Authors
 
-- [Author 1](link-to-author-1)
-- [Author 2](link-to-author-2)
+//- [Author 1](link-to-author-1)
+//- [Author 2](link-to-author-2)
 
 
