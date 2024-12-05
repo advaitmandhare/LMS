@@ -54,6 +54,9 @@ Contributions are welcome! Feel free to open issues and pull requests to suggest
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Presentation
+
+Access the project presentation [here](https://drive.google.com/drive/folders/1v173fcD9719WN8A1z9Wqly2eZzCYZ6tk?usp=sharing).
 
 
 
