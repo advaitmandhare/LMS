@@ -28,7 +28,7 @@ The main objective of this project is to:
 
 
 
-- 
+
 
 ## Getting Started
 
